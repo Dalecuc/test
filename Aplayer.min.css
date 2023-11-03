@@ -84,8 +84,8 @@
     /*字体颜色为橙色*/
     /* color: #FFA500; */
     position: fixed;
-    /* bottom: var(--mov); */
-    /* left: var(--mov); */
+    bottom: 0;
+    left: 0;
     right: 0;
     margin: 0;
     z-index: 99;
@@ -105,8 +105,8 @@
 .aplayer.aplayer-fixed .aplayer-body {
     /* logo 的偏移, 一定要和歌单偏移同步 */
     position: fixed;
-    /* bottom: var(--mov); */
-    /* left: var(--mov); */
+    bottom: 0;
+    left: 0;
     right: 0;
     margin: 0;
     z-index: 99;
